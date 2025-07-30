@@ -4,3 +4,10 @@
 
 ## 1. Erstelle Bilder
 Ein Überblick über alle eigens erstellen Bilder mittels Midjourney welche für die quantitative Umfrage genutzt wurden bietet die =
+
+## 2. verwendete Bilder
+
+## 3. Python Code für die statistische Auswertung der Umfrage
+
+## KI Verzeichnis
+
