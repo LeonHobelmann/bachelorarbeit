@@ -1,14 +1,20 @@
-# Repository zur Bachelorarbeit `Ethische Herausforderungen in der Bildgenerierung am Beispiel von Midjourney`
+# Repository zur Bachelorarbeit
 
  In diesem GitHub Repository werden alle relevanten Informationen zu der Bachelorarbeit `Ethische Herausforderungen in der Bildgenerierung am Beispiel von Midjourney` dokumentiert.
-| Leon Hobelmann | HTW Berlin | SoSe 2025
+
+Die Arbeit wurd erstellt von [Leon Hobelmann]() Student der Wirtschaftsinformatik an der HTW Berlin im Sommersemester 2025.
+
+Erstprüferin: [Prof. Dr. Birte Malzahn](https://www.htw-berlin.de/hochschule/personen/person/?eid=8589)
+Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschule/personen/person/?eid=9862)
+
+
 ## 1. erstellte Bilder
-die erstellten Bilder sind [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/erstelle_bilder.md) dokumentiert.
+die erstellten Bilder wurden [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/erstelle_bilder.md) dokumentiert.
 
 ## 2. verwendete Bilder
-die verwendeten Bilder sind [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/verwendete_bilder.md) dokumentiert.
+die verwendeten Bilder wurden [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/verwendete_bilder.md) dokumentiert.
 
 ## 3. Python Code für die statistische Auswertung der Umfrage
 
-## KI Verzeichnis
+## 4. KI Verzeichnis
 
