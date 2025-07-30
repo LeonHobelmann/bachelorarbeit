@@ -3,7 +3,7 @@
  In diesem GitHub Repository werden alle relevanten Informationen zu der Bachelorarbeit `Ethische Herausforderungen in der Bildgenerierung am Beispiel von Midjourney` dokumentiert.
 
 ## 1. Erstelle Bilder
-die Datei [verwendete Bilder](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/verwendete_bilder.md) listet alle verwendeten Bilder, welche nicht extra erstellt wurden auf.
+die [Datei "verwendete Bilder"](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/verwendete_bilder.md) listet alle verwendeten Bilder, welche nicht extra erstellt wurden auf.
 
 ## 2. verwendete Bilder
 
