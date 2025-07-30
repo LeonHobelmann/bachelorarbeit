@@ -6,7 +6,7 @@
 die erstellten Bilder sind [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/erstelle_bilder.md) dokumentiert.
 
 ## 2. verwendete Bilder
-die verwendeten Bilnder sind [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/verwendete_bilder.md) dokumentiert.
+die verwendeten Bilder sind [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/verwendete_bilder.md) dokumentiert.
 
 ## 3. Python Code für die statistische Auswertung der Umfrage
 
