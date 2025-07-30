@@ -1,4 +1,4 @@
-# Bachelorarbeit | Leon Hobelmann | s0576259 | HTW Berlin | SoSe 2025
+# Bachelorarbeit | Leon Hobelmann | HTW Berlin | SoSe 2025
 
  In diesem GitHub Repository werden alle relevanten Informationen zu der Bachelorarbeit **Ethische Herausforderungen in der Bildgenerierung am Beispiel von Midjourney** dokumentiert.
 
