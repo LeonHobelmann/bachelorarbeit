@@ -1,4 +1,4 @@
-# Dokumentation verwendeter Bilder 
+# Dokumentation | verwendeter Bilder 
 Hier werden alle Bilder welche in der Bachelorarbeit verwende wurden und nicht vom Autor selbst erstellt wurden, dokumentiert. 
 Die Bilder wurden im epirischen Teil der Arbeit, sowohl in der quanitativen Umfrage, als auch in der qualitiven Inhaltsanalyse verwendet.
 
