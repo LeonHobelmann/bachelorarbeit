@@ -8,13 +8,16 @@ Erstprüferin: [Prof. Dr. Birte Malzahn](https://www.htw-berlin.de/hochschule/pe
 Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschule/personen/person/?eid=9862)
 
 
-## 1. erstellte Bilder
+## 1. Daten zur Umfrage
+
+
+## 2. erstellte Bilder
 die erstellten Bilder wurden [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/erstelle_bilder.md) dokumentiert.
 
-## 2. verwendete Bilder
+## 3. verwendete Bilder
 die verwendeten Bilder wurden [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/verwendete_bilder.md) dokumentiert.
 
-## 3. Python Code für die statistische Auswertung der Umfrage
+## 4. Python Code für die statistische Auswertung der Umfrage
 
-## 4. KI Verzeichnis
+## 5. KI Verzeichnis
 
