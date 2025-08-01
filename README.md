@@ -8,8 +8,8 @@ Erstprüferin: [Prof. Dr. Birte Malzahn](https://www.htw-berlin.de/hochschule/pe
 Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschule/personen/person/?eid=9862)
 
 
-## 1. Daten zur Umfrage
-
+## 1. Daten zur empirischen Befragungsstudie
+die Daten zur empirischen Befragungsstudie wurden [hier]() dokumentiert.
 
 ## 2. erstellte Bilder
 die erstellten Bilder wurden [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/erstelle_bilder.md) dokumentiert.
