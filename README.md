@@ -15,13 +15,21 @@ die Daten zur  Befragungsstudie wurden [hier]() dokumentiert.
 ### 1.2 Datenmanagementplan
 der Datenmanagementplan wurde [hier]() dokumentiert.
 
-## 2. erstellte Bilder
+## 2. Befragungsstudie - erstellte Bilder
 die erstellten Bilder wurden [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/erstelle_bilder.md) dokumentiert.
 
-## 3. verwendete Bilder
+## 3. Befragungsstudie - verwendete Bilder
 die verwendeten Bilder wurden [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/verwendete_bilder.md) dokumentiert.
 
-## 4. Python Code für die statistische Auswertung der Befragungsstudie
+## 4. Umgehungsstrategien - identifizierte Methoden
+### 4.1 Prompt Engineering
+die identifizierten Bilder der Methode "Prompt Engineering" werden [hier]() dokumentiert.
+### 4.2 Externe Bildquellen / Moodboard
+die identifizierten Bilder der Methode "Externe Bildquellen / Moodboard" werden [hier]() dokumentiert.
+### 4.3 Eingriff im Editor
+die identifizierten Bilder der Methode "Eingriff im Editor" werden [hier]() dokumentiert.
+
+## 5. Python Code für die statistische Auswertung der Befragungsstudie
 * Abbildung 32 - 1-Sample t-Test (gegen33,3%)
 * Abbildung 33 - Welch t-Test (männlich vs. weiblich)
 * Abbildung 34 - Welch t-Test (Alter <38 vs =>38)
@@ -39,5 +47,5 @@ die verwendeten Bilder wurden [hier](https://github.com/LeonHobelmann/bachelorar
 
 
 
-## 5. KI Verzeichnis
+## 6. KI Verzeichnis
 
