@@ -2,15 +2,15 @@
 
 ## Autor
 
-**Author**
+**Author:**<br>
 Leon Hobelmann
 Bachelor Wirtschaftsinformatik
 
-**Betreuerin**
+**Betreuerin:**<br>
 [Prof. Dr. Birte Malzahn](https://www.htw-berlin.de/hochschule/personen/person/?eid=8589)
 Kontaktadresse: Birte.Malzahn@HTW-Berlin.de
 
-**Institution:**
+**Institution:**<br>
 Hochschule für Technik und Wirtschaft Berlin
 Fachbereich 4 
 
