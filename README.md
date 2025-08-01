@@ -22,6 +22,22 @@ die erstellten Bilder wurden [hier](https://github.com/LeonHobelmann/bachelorarb
 die verwendeten Bilder wurden [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/verwendete_bilder.md) dokumentiert.
 
 ## 4. Python Code für die statistische Auswertung der Befragungsstudie
+* Abbildung 32 - 1-Sample t-Test (gegen33,3%)
+* Abbildung 33 - Welch t-Test (männlich vs. weiblich)
+* Abbildung 34 - Welch t-Test (Alter <38 vs =>38)
+* Tabelle 8 - Ergebnisse der t-Tests
+* Tabelle 9 - Welch-t-Tests für die Nachbefragungs-Items
+* Abbildung 36 - Welch t-Test Frage b (weiblich vs. männlich)
+* Abbildung 37 - Welch t-Test Frage b (< 38 vs. => 38)
+* Abbildung 39 - Auswertung durschnittliche Bewertung nach Alter und Geschlecht
+* Abbildung 40 - Auswertung der Nachbefragung Teil 1
+* Abbildung 41 - Auswertung der Nachbefragung Teil 1
+* Abbildung 42 - Auswertung der Nachbefragung Teil 1
+* Abbildung 43 - Auswertung der Nachbefragung Teil 1
+* Abbildung 44 - Auswertung der Nachbefragung Teil 1
+* Abbildung 45 - Auswertung durschnittliche Bewertung
+
+
 
 ## 5. KI Verzeichnis
 
