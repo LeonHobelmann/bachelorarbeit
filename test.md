@@ -21,22 +21,26 @@ Es wurde eine empirsische Umfrage durchgeführt. 110 Personen haben an der Umfra
 
 ## Datenzugriff und Datenschutz
 
-Daten wurden selbst erhoben. Datensatz ist eingeschränkt zugreifbar unter <https://doi.org/10.9999/htwberlin.123456>. Für Lizenzvereinbarung siehe: LICENSE-Daten.txt
+Daten wurden selbst erhoben. Datensatz ist bereinigt unter folgendem Link abrufbar.
+ LIZENZ?
+Die Umfrage war freiwillig und erst für Personen ab 18 Jahren zugelassen.
+Alle Teilnehmer haben die Teilnahmebedingungen bestätigt.
+Es wurden E-Mail Adressen der Teilnehmer (Freiwillige Angabe) gespeichert, um Teilnehmer nach 
+der Auswertung über Ergebnis der Umfrage zu informieren. 
+Die E-Mail Adressen werden nach Versand der Ergebnisse gelöscht. 
+Die E-Mail Adressen wurden getrennt zu den Antwortern erhoben. Eine Rückschluss ist ausgeschlossen. 
 
-Die Einwilligungserklärungen der Interviewenden wurden archiviert und sind nach Absprache mit Prof. Beispielmann (Kontaktadresse: Helmut.Beispielmann@htw-berlin.de) abrufbar.
-
-Die Daten sollen nach 10 Jahren Aufbewahrungszeit gelöscht werden: Juni 2034.
 
 ## Zeitraum
 
-Die Interviews wurden am 25.07.2024 bis 07.08.2024 durchgeführt und bis Mitte August transkribiert.
-Die Datenanalyse fand im September 2024 statt.
+Die Umfrage wurde zwischen dem 28.06.2025 und dem 06.07.2025 durchgeführt.
+Die Datenanalyse fand ab dem 07.07.2025 statt.
 
 ## Angewendete Software
 
-* Die Aufnahmen: Videokonferenz Software Zoom (Ver. 5.4.3) <https://www.zoom.com/de>
-* Transkription: f4x Software <https://www.audiotranskription.de/>
-* Analyse:  QualCoder Ver. 3.6 <https://github.com/ccbogel/QualCoder/wiki>
+* Die Rohdaten: Microsoft Excel <https://www.microsoft.com/de-de/microsoft-365/excel?market=de>
+* Die Auswertung: Python 3.12 <https://www.python.org/>
+* Die Entwicklungsumgebung:  PyCharm <https://www.jetbrains.com/pycharm/>
 
 ## Datenformate und -größe
 
