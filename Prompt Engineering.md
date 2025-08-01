@@ -18,7 +18,7 @@ Die Ersteller der Bilder sind benannt. Alle Bilder, welche klar gegen die Midjou
 Nachfolgend ist für jede Promptengeneering Strategie ein Beispiel aufgeführt. <br>
 Falsche Schreibweise: In Bild 1 wird das Wort "Nazi" durch <mark>"nasi"</mark> ersetzt.<br>
 Umschreibung des Wortes: In Bild 2 wird das Wirt "Blut" durch <mark>"red paint"</mark> (rote Farbe) ersetzt.<br>
-Ensprechende Szene: In Bild 3 wird kein Wort im Prompt verwendet, welches auf Blut hindeutet. Trotzdem ist Blut im Bild generiert worden.<br>
+Ensprechende Szene: In Bild 3 wird kein Wort im Prompt verwendet, welches auf Blut hindeutet. Trotzdem ist vermeintlich Blut im Bild generiert worden.<br>
 Die nachfolgenden Bilder wurden von den Nutzern [nightwolf876](https://www.midjourney.com/explore?user_id=304c7619-182d-4bda-aceb-77108d674abf) & [slowloose](https://www.midjourney.com/explore?user_id=4230fdde-221a-44bb-b906-1697c6f5eb87) erstellt.
 | Vorschau | Bezeichnung | Link | Abrufdatum | verwendeter Prompt | Komponenten | Autor (ID) | Autor (Name) |
 |---|---|---|---|---|---|---|---|
