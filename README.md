@@ -22,12 +22,8 @@ die erstellten Bilder wurden [hier](https://github.com/LeonHobelmann/bachelorarb
 die verwendeten Bilder wurden [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/verwendete_bilder.md) dokumentiert.
 
 ## 4. Umgehungsstrategien - identifizierte Methoden
-### 4.1 Prompt Engineering
-die identifizierten Bilder der Methode "Prompt Engineering" werden [hier]() dokumentiert.
-### 4.2 Externe Bildquellen / Moodboard
-die identifizierten Bilder der Methode "Externe Bildquellen / Moodboard" werden [hier]() dokumentiert.
-### 4.3 Eingriff im Editor
-die identifizierten Bilder der Methode "Eingriff im Editor" werden [hier]() dokumentiert.
+die identifizierten Bilder der Umgehungsstrategien werden [hier]() dokumentiert.
+
 
 ## 5. Python Code für die statistische Auswertung der Befragungsstudie
 * Abbildung 32 - 1-Sample t-Test (gegen33,3%)
