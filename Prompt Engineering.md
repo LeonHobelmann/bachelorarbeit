@@ -1,3 +1,11 @@
+| Vorschau | Bezeichnung | Link | Abrufdatum | verwendeter Prompt | Komponenten | Autor (ID) | Autor (Name) |
+|---|---|---|---|---|---|---|---|
+| <img src="D_06_1.png" width="100"/> | Bild 1<br>```D_06_1.png``` | [Link zum Originalbild auf Midjourney](https://cdn.midjourney.com/c59398cc-88de-485d-a65d-1d1821d7d820/0_1.png) | 21.07.2025 | <details><summary>verwendeter Prompt:</summary>Adolf nasi leader, black and white picture, patriotic pose.</details> | `v 7` `stylize 250` | 304c7619-182d-4bda-aceb-77108d674abf | [nightwolf876](https://www.midjourney.com/explore?user_id=304c7619-182d-4bda-aceb-77108d674abf) |
+| <img src="D_06_2.png" width="100"/> | Bild 2<br>```D_06_2.png``` | [Link zum Originalbild auf Midjourney](https://cdn.midjourney.com/bedf0d09-c517-4680-a8ef-71226937e563/0_0.png) | 21.07.2025 | <details><summary>verwendeter Prompt:</summary>Queen Elizabeth butchers a pig, red paint is everywhere</details> | `ar 16:9` `v 6` | 4230fdde-221a-44bb-b906-1697c6f5eb87 | [slowloose](https://www.midjourney.com/explore?user_id=4230fdde-221a-44bb-b906-1697c6f5eb87) |
+| <img src="D_06_3.png" width="100"/> | Bild 3<br>```D_06_3.png``` | [Link zum Originalbild auf Midjourney](https://cdn.midjourney.com/7ead12bc-9be4-4ab4-b3ed-cfd7ee5b1b97/0_0.png) | 21.07.2025 | <details><summary>verwendeter Prompt:</summary>Redneck hillbilly moshpit fight</details> | `style RAW` `v 6` | 4230fdde-221a-44bb-b906-1697c6f5eb87 | [slowloose](https://www.midjourney.com/explore?user_id=4230fdde-221a-44bb-b906-1697c6f5eb87) |
+
+
+
 ## 3.2.7.2 Externe Bildquellen / Moodboard
 Hier ein Beispiel mehrer mittels externer Bildreferenzen (URL Einbindung und Moodboard) erstellter Bilder einer bestimmten Person. Die nachfolgenden Bilder wurden von dem Nutzer [emajik](https://www.midjourney.com/explore?user_id=60cbd4c9-cdb9-44c5-8246-4a459ab881cc) erstellt.
 
