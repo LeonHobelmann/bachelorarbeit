@@ -30,7 +30,7 @@ Die nachfolgenden Bilder wurden von den Nutzern [nightwolf876](https://www.midjo
 
 
 ## 3.2.7.2 Externe Bildquellen / Moodboard
-Hier ein Beispiel mehrer mittels externer Bildreferenzen (URL Einbindung und Moodboard) erstellter Bilder einer bestimmten Person. Die nachfolgenden Bilder wurden von dem Nutzer [emajik](https://www.midjourney.com/explore?user_id=60cbd4c9-cdb9-44c5-8246-4a459ab881cc) erstellt.
+Hier ein Beispiel mehrer mittels externer Bildreferenzen (URL Einbindung und Moodboard) erstellter Bilder einer bestimmten Person.<br> Die nachfolgenden Bilder wurden von dem Nutzer [emajik](https://www.midjourney.com/explore?user_id=60cbd4c9-cdb9-44c5-8246-4a459ab881cc) erstellt.
 
 | Vorschau | Bezeichnung | Link | Abrufdatum | verwendeter Prompt | Komponenten | Autor (ID) | Autor (Name) |
 |---|---|---|---|---|---|---|---|
