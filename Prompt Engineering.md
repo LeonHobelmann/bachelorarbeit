@@ -17,7 +17,8 @@
 
 
 
-##
+## 3.2.7.2 Externe Bildquellen / Moodboard
+Nachfolgend ein Beispiel einer Bilderreihe erstellt von Nutzer [emajik](https://www.midjourney.com/explore?user_id=60cbd4c9-cdb9-44c5-8246-4a459ab881cc) mittels externer Bildreferenzen. URL Einbindung und Moodboard funktion wurden verwendet. 
 
 | Vorschau | Bezeichnung | Link | Abrufdatum | verwendeter Prompt | Komponenten | Autor (ID) | Autor (Name) |
 |---|---|---|---|---|---|---|---|
