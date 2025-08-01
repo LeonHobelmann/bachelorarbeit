@@ -41,6 +41,7 @@ Die Datenanalyse fand ab dem 07.07.2025 statt.
 * Die Rohdaten: Microsoft Excel <https://www.microsoft.com/de-de/microsoft-365/excel?market=de>
 * Die Auswertung: Python 3.12 <https://www.python.org/>
 * Die Entwicklungsumgebung:  PyCharm <https://www.jetbrains.com/pycharm/>
+* Die Visualiesierung: Canva <https://www.canva.com/>
 
 ## Datenformate und -größe
 
