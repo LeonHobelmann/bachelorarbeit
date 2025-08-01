@@ -4,7 +4,7 @@
 
 **Author:**<br>
 Leon Hobelmann
-<br>Bachelor Wirtschaftsinformatik
+<br>B.Sc. Wirtschaftsinformatik
 
 **Betreuerin:**<br>
 [Prof. Dr. Birte Malzahn](https://www.htw-berlin.de/hochschule/personen/person/?eid=8589)
