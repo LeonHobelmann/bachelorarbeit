@@ -2,7 +2,7 @@
 
 ## Autor
 
-**Author:**<br>
+**Autor:**<br>
 Leon Hobelmann
 <br>B.Sc. Wirtschaftsinformatik
 
@@ -15,8 +15,7 @@ Hochschule für Technik und Wirtschaft Berlin <br>
 Fachbereich 4 
 
 ## Datensatz
-
-Es wurden 19 semi-strukturierten Interviews mit den Experten im Thema „Wissenschaftskommunikation und Verbreitung“ mit der Videokonferenz-Software durchgeführt und aufgezeichnet. Die Dateien wurden dann transkribiert und im Rahmen des Grounded Theory Ansatz analysiert . Der Datensatz beinhaltet die Video-Aufzeichnungen, die Transkripte sowie die Projekt-Datei aus der Analyse-Software.
+Es wurde eine empirsische Umfrage durchgeführt. 110 Personen haben an der Umfrage Teilgenommen. 
 
 **Sprache:** Deutsch.
 
