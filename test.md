@@ -53,6 +53,6 @@ Die Daten der Umfrage liegen in folgenden Formaten vor:
 
 Manuelle Prüfung und Korrektur:
 
-* Korrektur von unplausiblen Umfragezeiten z.B. Zeit pro Antowrt > 10 min.
+* Korrektur von unplausiblen Umfragezeiten z.B. Zeit pro Antowrt > 10 min. (Ersetzt durch Median der Zeiten aller Befragten bei der spezifischen Frage)
 * Löschen von unvollständigen Datensätzen.
 * Ergänzen von eigenen Datenfeauteres wie Durchschnitt und Median.
