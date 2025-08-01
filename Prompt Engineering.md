@@ -5,9 +5,11 @@ Diese Datei dient als Belegpflicht einer wissenschaftlichen Arbeit.
 Es wurden Strategien zur Umgehung der Midjourney Richtlinien im Kapitel 3.2.7 Umgehungsstrategien identifiziert. 
 Im folgenden werden einige Beispiele präsentiert, um die getroffenen Aussagen im besagten Kapitel zu untermauern. 
 Die Ersteller der Bilder sind benannt. Alle Bilder, welche klar gegen die Midjourney Richtlinien verstoßen wurden entsprechend gemeldet.
+<br>
+<br>
+<br>
 
-
-:warning::warning::warning::warning::warning::warning::warning::warning::warning:
+:warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning:
 Der folgende Abschnitt enthält Gewaltbilder und Bilder in mit sexualisiertem Inhalt. 
 
  
