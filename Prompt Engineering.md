@@ -4,7 +4,7 @@ Diese Datei dient als Belegpflicht einer wissenschaftlichen Arbeit.
 # 3.2.7 Umgehungsstrategien
 Es wurden Strategien zur Umgehung der Midjourney Richtlinien im Kapitel 3.2.7 Umgehungsstrategien identifiziert. 
 Im folgenden werden einige Beispiele präsentiert, um die getroffenen Aussagen im besagten Kapitel zu untermauern. 
-Die Ersteller der Bilder sind benannt. Alle Bilder, welche klar gegen die Midjourney Richtlinien verstoßen wurden entsprechend gemeldet.
+Die Ersteller der Bilder sind benannt. Alle Bilder, welche klar gegen die Midjourney Richtlinien verstoßen wurden entsprechend über die Meldefunktion von Midjourney gemeldet.
 <br>
 <br>
 <br>
