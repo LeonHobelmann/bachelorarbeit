@@ -1,19 +1,18 @@
-# Masterarbeit „Wissenschaftskommunikation und Verbreitung in den Berliner Hochschulen“ - Daten
+# Bachelorarbeot „Ethische Herausforderungen in der Bildgenerierung am Beispiel von Midjourney“ - Daten
 
-## Autor*innen
+## Autor
 
-**Authorin:**
-Anna Schmidt
-Masterstudiengang Wirtschaftskommunikation
+**Author**
+Leon Hobelmann
+Bachelor Wirtschaftsinformatik
 
-**Betreurer:**
-Helmut Beispielmann
-ORCID: 0002-3456-3021-0093
-Kontaktadresse: Helmut.Beispielmann@htw-berlin.de
+**Betreuerin**
+[Prof. Dr. Birte Malzahn](https://www.htw-berlin.de/hochschule/personen/person/?eid=8589)
+Kontaktadresse: Birte.Malzahn@HTW-Berlin.de
 
 **Institution:**
 Hochschule für Technik und Wirtschaft Berlin
-ROR: <https://ror.org/01xzwj424>
+Fachbereich 4 
 
 ## Datensatz
 
