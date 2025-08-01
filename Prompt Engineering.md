@@ -9,7 +9,7 @@ Die Ersteller der Bilder sind benannt. Alle Bilder, welche klar gegen die Midjou
 <br>
 <br>
 
-:warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning::warning:
+:warning::warning::warning: <br>
 Der folgende Abschnitt enthält Gewaltbilder und Bilder in mit sexualisiertem Inhalt. 
 
  
