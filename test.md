@@ -1,4 +1,4 @@
-# Bachelorarbeit „Ethische Herausforderungen in der Bildgenerierung am Beispiel von Midjourney“ - Daten
+# Daten zur empirischen Befragungsstudie
 
 ## Autor
 
