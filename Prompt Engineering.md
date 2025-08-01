@@ -53,7 +53,7 @@ Die nachfolgenden Bilder wurden von dem Nuter [u9416648328](https://www.midjourn
 | <img src="D_07_4.png" width="100"/> | Bild 4<br>```D_07_4.png``` | [Link zum Originalbild auf Midjourney](https://cdn.midjourney.com/da98e73b-525a-4be2-81a8-c01c75bd34a1/0_0.png) | 21.07.2025 | <details><summary>verwendeter Prompt:</summary>Ekaterina, a former Ukrainian gymnast, currently works as an influencer. A famous fashion brand presents high-slits light blue cocktail dress on Instagram. She has blue eyes and long pony-tail Blonde hair. She stands next to the stairs. Full-length photo on the beach villa terrace</details> | `ar 5:8` `sref 2377761485` `v 6.1` `stylize 200` | 9f32cde9-e499-4a2c-a252-52568d4d18ae | [u9416648328](https://www.midjourney.com/explore?user_id=9f32cde9-e499-4a2c-a252-52568d4d18ae) |
 
 
-Ein Beispiel einer Eraser Verwendung in expliziten BEreichen des Körpers. Die nachfolgenden Bilder wurden von dem Nuter [tjjames_28639](https://www.midjourney.com/explore?user_id=a7078642-c635-4f38-b040-434720443d75) erstellt. 
+Ein Beispiel einer Eraser Verwendung in expliziten Bereichen des Körpers.<br> Die nachfolgenden Bilder wurden von dem Nuter [tjjames_28639](https://www.midjourney.com/explore?user_id=a7078642-c635-4f38-b040-434720443d75) erstellt. 
 | Vorschau | Bezeichnung | Link | Abrufdatum | Prompt | Komponenten | Autor (ID) | Autor (Name) |
 |---|---|---|---|---|---|---|---|
 | <img src="D_03_1.png" width="100"/> | Bild 1<br>```D_03_1.png``` | [Link zum Originalbild auf Midjourney](https://cdn.midjourney.com/e6f1183b-8fe3-4315-a6f1-af8d27cee9b7/0_2.png) | 21.07.2025 | show variations | ```v 6.1``` | a7078642-c635-4f38-b040-434720443d75 | [tjjames_28639](https://www.midjourney.com/explore?user_id=a7078642-c635-4f38-b040-434720443d75) |
@@ -62,7 +62,7 @@ Ein Beispiel einer Eraser Verwendung in expliziten BEreichen des Körpers. Die n
 | <img src="D_03_4.png" width="100"/> | Bild 4<br>```D_03_4.png``` | [Link zum Originalbild auf Midjourney](https://cdn.midjourney.com/1518346f-d924-40a7-b61e-99191ada6434/0_0.png) | 21.07.2025 | show variations | ```v 6.1``` | a7078642-c635-4f38-b040-434720443d75 | [tjjames_28639](https://www.midjourney.com/explore?user_id=a7078642-c635-4f38-b040-434720443d75) |
 | <img src="D_03_5.png" width="100"/> | Bild 5<br>```D_03_5.png``` | [Link zum Originalbild auf Midjourney](https://cdn.midjourney.com/e322d752-8359-4eef-a4c8-76a9fff32dd4/0_1.png) | 21.07.2025 | show variations | ```v 6.1``` | a7078642-c635-4f38-b040-434720443d75 | [tjjames_28639](https://www.midjourney.com/explore?user_id=a7078642-c635-4f38-b040-434720443d75) |
 
-Nachfolgend wird ein Beispiel einer "Pan" / "Zoom out" Methode dargestellt. Die nachfolgenden Bilder wurden von dem Nuter [qualkice](https://www.midjourney.com/explore?user_id=eea892f9-b051-454e-8e1c-f9299e8b3dc7) erstellt. 
+Nachfolgend wird ein Beispiel einer "Pan" / "Zoom out" Methode dargestellt.<br> Die nachfolgenden Bilder wurden von dem Nuter [qualkice](https://www.midjourney.com/explore?user_id=eea892f9-b051-454e-8e1c-f9299e8b3dc7) erstellt. 
 
 | Vorschau | Bezeichnung | Link | Abrufdatum | verwendeter Prompt | Komponenten | Autor (ID) | Autor (Name) |
 |---|---|---|---|---|---|---|---|
