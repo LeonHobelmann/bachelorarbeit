@@ -16,10 +16,10 @@ die Daten zur  Befragungsstudie wurden [hier]() dokumentiert.
 der Datenmanagementplan wurde [hier]() dokumentiert.
 
 ## 2. Befragungsstudie - erstellte Bilder
-[erstellten Bilder](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/erstelle_bilder.md)
+[erstellte Bilder](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/erstelle_bilder.md)
 
 ## 3. Befragungsstudie - verwendete Bilder
-[verwendeten Bilder](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/verwendete_bilder.md)
+[verwendete Bilder](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/verwendete_bilder.md)
 
 ## 4. Umgehungsstrategien - identifizierte Methoden
 die identifizierten Bilder der Umgehungsstrategien werden [hier]() dokumentiert.
