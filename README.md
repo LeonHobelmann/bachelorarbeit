@@ -19,7 +19,7 @@ der Datenmanagementplan wurde [hier]() dokumentiert.
 [erstellten Bilder](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/erstelle_bilder.md)
 
 ## 3. Befragungsstudie - verwendete Bilder
-die verwendeten Bilder wurden [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/verwendete_bilder.md) dokumentiert.
+[verwendeten Bilder](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/verwendete_bilder.md)
 
 ## 4. Umgehungsstrategien - identifizierte Methoden
 die identifizierten Bilder der Umgehungsstrategien werden [hier]() dokumentiert.
