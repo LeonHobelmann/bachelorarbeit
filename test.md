@@ -15,11 +15,11 @@ Hochschule für Technik und Wirtschaft Berlin - ROR: <https://ror.org/01xzwj424>
 Fachbereich 4 
 
 ## Datensatz
-Es wurde eine empirsische Umfrage durchgeführt. 110 Personen haben an der Umfrage Teilgenommen. 
+Es wurde eine empirsische Umfrage durchgeführt. 110 Personen haben an der Umfrage Teilgenommen. <br>
 
-**Sprache:** Deutsch
-**Datensatz:** -> Hier
-**Befragungsstudie:** -> Hier
+**Sprache:** Deutsch<br>
+**Datensatz:** -> Hier<br>
+**Befragungsstudie:** -> Hier<br>
 
 ## Datenzugriff und Datenschutz
 
