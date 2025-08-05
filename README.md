@@ -16,7 +16,7 @@ die Daten zur  Befragungsstudie wurden [hier]() dokumentiert.
 der Datenmanagementplan wurde [hier]() dokumentiert.
 
 ## 2. Befragungsstudie - erstellte Bilder
-die erstellten Bilder wurden [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/erstelle_bilder.md) dokumentiert.
+[erstellten Bilder](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/erstelle_bilder.md)
 
 ## 3. Befragungsstudie - verwendete Bilder
 die verwendeten Bilder wurden [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/verwendete_bilder.md) dokumentiert.
