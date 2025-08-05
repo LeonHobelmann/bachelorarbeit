@@ -18,8 +18,8 @@ Fachbereich 4
 Es wurde eine empirsische Umfrage durchgeführt. 110 Personen haben an der Umfrage Teilgenommen. 
 
 **Sprache:** Deutsch
-
-**Umfrage Druck:** -> Hier
+**Datensatz:** -> Hier
+**Befragungsstudie:** -> Hier
 
 ## Datenzugriff und Datenschutz
 
