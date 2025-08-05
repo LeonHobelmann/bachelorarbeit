@@ -22,7 +22,7 @@ der Datenmanagementplan wurde [hier]() dokumentiert.
 [verwendete Bilder](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/verwendete_bilder.md)
 
 ## 4. Umgehungsstrategien - identifizierte Methoden
-die identifizierten Bilder der Umgehungsstrategien werden [hier]() dokumentiert.
+[identifizierte Umgehungsstrategien](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Umgehungsstrategien.md)
 
 
 ## 5. Python Code für die statistische Auswertung der Befragungsstudie
