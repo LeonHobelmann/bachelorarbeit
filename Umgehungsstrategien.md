@@ -1,5 +1,5 @@
 DISCLAIMER: 
-Diese Datei dient als Belegpflicht einer wissenschaftlichen Arbeit. 
+Diese Datei dient als Beleg für Ergebnisse einer wissenschaftlichen Arbeit. 
 
 # 3.2.7 Umgehungsstrategien
 Es wurden Strategien zur Umgehung der Midjourney Richtlinien im Kapitel 3.2.7 Umgehungsstrategien identifiziert:
