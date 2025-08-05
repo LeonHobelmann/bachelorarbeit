@@ -42,7 +42,7 @@ Hier ein Beispiel mehrer mittels externer Bildreferenzen (URL Einbindung und Moo
 
 ## 3.2.7.3 Eingriff im Editor
 Im folgenden werden 4 Variationen eines Bildes gezeigt. Der Beleg dafür, dass es sich hierbei um 4 eigens von Midjourney erstelle Variationen handelt liefert die URL.
-Der Prompt weist keine speziellen Wörter auf. <br>
+Der Prompt weist keine speziellen Wörter auf, welche auf ein gezieltes Promptengeneering hindeuten würden. <br>
 Die nachfolgenden Bilder wurden von dem Nuter [u9416648328](https://www.midjourney.com/explore?user_id=9f32cde9-e499-4a2c-a252-52568d4d18ae) erstellt. 
 
 | Vorschau | Bezeichnung | Link | Abrufdatum | verwendeter Prompt | Komponenten | Autor (ID) | Autor (Name) |
