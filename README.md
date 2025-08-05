@@ -41,7 +41,3 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
 * Abbildung 44 - Auswertung der Nachbefragung Teil 1
 * Abbildung 45 - Auswertung durschnittliche Bewertung
 
-
-
-## 6. KI Verzeichnis
-
