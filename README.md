@@ -35,7 +35,8 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
 * Tabelle 9 - Welch-t-Tests für die Nachbefragungs-Items
 ### Für die Berechnung und Visualisierung der folgenden Abbildungen und Tabellen<br> wurde dieser Python Code verwendet: [`Teil2_gesamt.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil2_gesamt.py)
 * Abbildung 40: Auswertung durschnittliche Bewertung nach Alter und Geschlecht
-* Abbildung 40 - Auswertung der Nachbefragung Teil 1
+### Für die Berechnung und Visualisierung der folgenden Abbildungen und Tabellen<br> wurde dieser Python Code verwendet: [`01_Karikatur_01.py`]() [`01_Karikatur_01.py`]() [`01_Karikatur_01.py`]()
+* Abbildung 41: - Auswertung Nachbefragung Teil 1 - Karikatur
 * Abbildung 41 - Auswertung der Nachbefragung Teil 1
 * Abbildung 42 - Auswertung der Nachbefragung Teil 1
 * Abbildung 43 - Auswertung der Nachbefragung Teil 1
