@@ -26,10 +26,12 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
 
 
 ## 5. Python Code für die statistische Auswertung der Befragungsstudie
-* Abbildung 32 - 1-Sample t-Test (gegen33,3%)
-* Abbildung 33 - Welch t-Test (männlich vs. weiblich)
-* Abbildung 34 - Welch t-Test (Alter <38 vs =>38)
-* Tabelle 8 - Ergebnisse der t-Tests
+* Abbildung 33: Mittelwert vs. Zufall
+* Abbildung 34: Welch t-Test (männlich vs weiblich)
+* Abbildung 35: Welch t-Test (Alter <38 vs =>38))
+* Tabelle 9: Ergebnisse der t-Tests
+
+
 * Tabelle 9 - Welch-t-Tests für die Nachbefragungs-Items
 * Abbildung 36 - Welch t-Test Frage b (weiblich vs. männlich)
 * Abbildung 37 - Welch t-Test Frage b (< 38 vs. => 38)
