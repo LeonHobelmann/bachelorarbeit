@@ -36,11 +36,21 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
   * A [`01_Karikatur_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/01_Karikatur_01.py)
   * B [`01_Karikatur_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/01_Karikatur_02.py)
   * C [`01_Karikatur_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/01_Karikatur_03.py)
-  
-* Abbildung 42: - Auswertung Bewerten - Produktbilder [`02_Produkt_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/02_Produkt_01.py) [`02_Produkt_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/02_Produkt_02.py) [`02_Produkt_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/02_Produkt_03.py)
-* Abbildung 43: - Auswertung Bewerten - Vorher / Nachher Bilder [`03_VorherNachher_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/03_VorherNachher_01.py) [`03_VorherNachher_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/03_VorherNachher_02.py) [`03_VorherNachher_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/03_VorherNachher_03.py)
-
-* Abbildung 44: - Auswertung Bewerten - Gewaltbilder [`04_Gewalt_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/04_Gewalt_01.py) [`04_Gewalt_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/04_Gewalt_02.py) [`04_Gewalt_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/04_Gewalt_03.py) 
-* Abbildung 44 - Auswertung der Nachbefragung Teil 1
+* Abbildung 42: - Auswertung Bewerten - Produktbilder
+  * A [`02_Produkt_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/02_Produkt_01.py) 
+  * B [`02_Produkt_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/02_Produkt_02.py)
+  * C [`02_Produkt_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/02_Produkt_03.py)
+* Abbildung 43: - Auswertung Bewerten - Vorher / Nachher Bilder
+  * A [`03_VorherNachher_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/03_VorherNachher_01.py)
+  * B [`03_VorherNachher_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/03_VorherNachher_02.py)
+  * C [`03_VorherNachher_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/03_VorherNachher_03.py)
+* Abbildung 44: - Auswertung Bewerten - Gewaltbilder
+  * A [`04_Gewalt_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/04_Gewalt_01.py)
+  * B [`04_Gewalt_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/04_Gewalt_02.py)
+  * C [`04_Gewalt_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/04_Gewalt_03.py) 
+* Abbildung 44 - Auswertung Bewertung - Erotikbilder
+  * A
+  * B
+  * C
 * Abbildung 45 - Auswertung durschnittliche Bewertung
 
