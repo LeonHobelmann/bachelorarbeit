@@ -31,7 +31,7 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
 * Abbildung 35: Welch t-Test (Alter <38 vs =>38)) [`t-test.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/t-tests.py) 
 * Tabelle 9: Ergebnisse der t-Tests [`t-test.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/t-tests.py) 
 * Tabelle 9 - Welch-t-Tests für die Nachbefragungs-Items  [`Teil1_Nachbefragung_Fr_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil1_Nachbefragung_Fr_01.py) [`Teil1_Nachbefragung_Fr_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil1_Nachbefragung_Fr_02.py)  [`Teil1_Nachbefragung_Fr_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil1_Nachbefragung_Fr_03.py) [`Teil1_Nachbefragung_Fr_04.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil1_Nachbefragung_Fr_04.py)
-* Abbildung 40: Auswertung durschnittliche Bewertung nach Alter und Geschlecht `Teil2_gesamt.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil2_gesamt.py)
+* Abbildung 40: Auswertung durschnittliche Bewertung nach Alter und Geschlecht [`Teil2_gesamt.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil2_gesamt.py)
 * Abbildung 41: - Auswertung Bewerten - Karikatur
   * A [`01_Karikatur_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/01_Karikatur_01.py)
   * B [`01_Karikatur_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/01_Karikatur_02.py)
