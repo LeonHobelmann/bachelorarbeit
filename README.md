@@ -39,7 +39,7 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
 * Abbildung 41: - Auswertung Nachbefragung Teil 1 - Karikatur
 ### Für die Berechnung und Visualisierung der folgenden Abbildungen und Tabellen<br> wurde dieser Python Code verwendet: [`02_Produkt_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/02_Produkt_01.py) [`02_Produkt_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/02_Produkt_02.py) [`02_Produkt_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/02_Produkt_03.py)
 * Abbildung 42: - Auswertung Nachbefragung Teil 1 - Produktbilder
-### Für die Berechnung und Visualisierung der folgenden Abbildungen und Tabellen<br> wurde dieser Python Code verwendet: [`03_VorherNachher_01.py`]() [`03_VorherNachher_01.py`]() [`03_VorherNachher_01.py`]()
+### Für die Berechnung und Visualisierung der folgenden Abbildungen und Tabellen<br> wurde dieser Python Code verwendet: [`03_VorherNachher_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/03_VorherNachher_01.py) [`03_VorherNachher_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/03_VorherNachher_02.py) [`03_VorherNachher_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/03_VorherNachher_03.py)
 * Abbildung 42 - Auswertung der Nachbefragung Teil 1
 * Abbildung 43 - Auswertung der Nachbefragung Teil 1
 * Abbildung 44 - Auswertung der Nachbefragung Teil 1
