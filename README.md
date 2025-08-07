@@ -69,6 +69,6 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
 ## Lizenz
 - **PDF und Text**: Creative Commons Namensnennung 4.0: [LICENSE-CC-BY.txt](LICENSE-CC-BY.txt)
 - **Code**: MIT License: [LICENSE-MIT.txt](LICENSE-MIT.txt)
-- **Bilder und Grafiken**: Third Party Licenses [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md).
+- **Bilder**: Third Party Licenses [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md).
 
   
