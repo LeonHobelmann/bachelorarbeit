@@ -27,12 +27,11 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
 
 ## 5. Python Code für die statistische Auswertung der Befragungsstudie
 ### Für die Berechnung und Visualisierung der folgenden Abbildungen und Tabellen<br> wurde dieser Python Code vwerwendet: [`t-test.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/t-tests.py) 
-* Abbildung 33: Mittelwert vs. Zufall
-* Abbildung 34: Welch t-Test (männlich vs weiblich)
-* Abbildung 35: Welch t-Test (Alter <38 vs =>38))
-* Tabelle 9: Ergebnisse der t-Tests
-### Für die Berechnung und Visualisierung der folgenden Abbildungen und Tabellen<br> wurde dieser Python Code verwendet: [`Teil1_Nachbefragung_Fr_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil1_Nachbefragung_Fr_01.py) [`Teil1_Nachbefragung_Fr_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil1_Nachbefragung_Fr_02.py)  [`Teil1_Nachbefragung_Fr_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil1_Nachbefragung_Fr_03.py) [`Teil1_Nachbefragung_Fr_04.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil1_Nachbefragung_Fr_04.py)
-* Tabelle 9 - Welch-t-Tests für die Nachbefragungs-Items
+* Abbildung 33: Mittelwert vs. Zufall [`t-test.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/t-tests.py) 
+* Abbildung 34: Welch t-Test (männlich vs weiblich) [`t-test.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/t-tests.py) 
+* Abbildung 35: Welch t-Test (Alter <38 vs =>38)) [`t-test.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/t-tests.py) 
+* Tabelle 9: Ergebnisse der t-Tests [`t-test.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/t-tests.py) 
+* Tabelle 9 - Welch-t-Tests für die Nachbefragungs-Items  [`Teil1_Nachbefragung_Fr_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil1_Nachbefragung_Fr_01.py) [`Teil1_Nachbefragung_Fr_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil1_Nachbefragung_Fr_02.py)  [`Teil1_Nachbefragung_Fr_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil1_Nachbefragung_Fr_03.py) [`Teil1_Nachbefragung_Fr_04.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil1_Nachbefragung_Fr_04.py)
 ### Für die Berechnung und Visualisierung der folgenden Abbildungen und Tabellen<br> wurde dieser Python Code verwendet: [`Teil2_gesamt.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil2_gesamt.py)
 * Abbildung 40: Auswertung durschnittliche Bewertung nach Alter und Geschlecht
 ### Für die Berechnung und Visualisierung der folgenden Abbildungen und Tabellen<br> wurde dieser Python Code verwendet: [`01_Karikatur_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/01_Karikatur_01.py) [`01_Karikatur_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/01_Karikatur_02.py) [`01_Karikatur_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/01_Karikatur_03.py)
