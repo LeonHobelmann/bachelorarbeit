@@ -67,7 +67,8 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
   * 6 [`Teil2_Nachbefragung_Fr_06.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil2_Nachbefragung_Fr_06.py)
   * 7 [`Teil2_Nachbefragung_Fr_07.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil2_Nachbefragung_Fr_07.py)
 ## Lizenz
-- **PDF & Text**: Creative Commons Namensnennung 4.0: [LICENSE-CC-BY.txt](LICENSE-CC-BY.txt)
+- **PDF und Text**: Creative Commons Namensnennung 4.0: [LICENSE-CC-BY.txt](LICENSE-CC-BY.txt)
 - **Code**: MIT License: [LICENSE-MIT.txt](LICENSE-MIT.txt)
+- **Bilder und Grafiken**: Third Party Licenses [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md).
 
   
