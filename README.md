@@ -33,9 +33,9 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
 * Tabelle 9 - Welch-t-Tests für die Nachbefragungs-Items  [`Teil1_Nachbefragung_Fr_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil1_Nachbefragung_Fr_01.py) [`Teil1_Nachbefragung_Fr_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil1_Nachbefragung_Fr_02.py)  [`Teil1_Nachbefragung_Fr_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil1_Nachbefragung_Fr_03.py) [`Teil1_Nachbefragung_Fr_04.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil1_Nachbefragung_Fr_04.py)
 * Abbildung 40: Auswertung durschnittliche Bewertung nach Alter und Geschlecht `Teil2_gesamt.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil2_gesamt.py)
 * Abbildung 41: - Auswertung Bewerten - Karikatur
- - A [`01_Karikatur_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/01_Karikatur_01.py)
- - B [`01_Karikatur_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/01_Karikatur_02.py)
- - C [`01_Karikatur_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/01_Karikatur_03.py)
+ * A [`01_Karikatur_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/01_Karikatur_01.py)
+ * B [`01_Karikatur_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/01_Karikatur_02.py)
+ * C [`01_Karikatur_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/01_Karikatur_03.py)
   
 * Abbildung 42: - Auswertung Bewerten - Produktbilder [`02_Produkt_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/02_Produkt_01.py) [`02_Produkt_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/02_Produkt_02.py) [`02_Produkt_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/02_Produkt_03.py)
 * Abbildung 43: - Auswertung Bewerten - Vorher / Nachher Bilder [`03_VorherNachher_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/03_VorherNachher_01.py) [`03_VorherNachher_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/03_VorherNachher_02.py) [`03_VorherNachher_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/03_VorherNachher_03.py)
