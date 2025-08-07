@@ -22,7 +22,7 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
 * alle verwendeten Bilder werden [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/verwendete_bilder.md) dokumentiert.
 
 ## 4. Umgehungsstrategien - identifizierte Umgehungsstrategien
-* alle identifizierten Umgehungsstrategien werden [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Umgehungsstrategien.md) dokumentiert.
+* alle identifizierten Umgehungsstrategien werden hier dokumentiert [Umgehungsstrategien](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Umgehungsstrategien.md)
 
 
 ## 5. Python Code für die statistische Auswertung der Befragungsstudie 
