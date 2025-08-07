@@ -49,8 +49,8 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
   * B [`04_Gewalt_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/04_Gewalt_02.py)
   * C [`04_Gewalt_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/04_Gewalt_03.py) 
 * Abbildung 44 - Auswertung Bewertung - Erotikbilder
-  * A
-  * B
-  * C
-* Abbildung 45 - Auswertung durschnittliche Bewertung
+  * A [`05_Erotik_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/05_Erotik_01.py)
+  * B [`05_Erotik_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/05_Erotik_02.py)
+  * C [`05_Erotik_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/05_Erotik_03.py)
+* Abbildung 45 - Auswertung durschnittliche Bewertung 
 
