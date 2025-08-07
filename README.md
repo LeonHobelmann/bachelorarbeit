@@ -25,8 +25,7 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
 * alle identifizierten Umgehungsstrategien werden [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Umgehungsstrategien.md) dokumentiert.
 
 
-## 5. Python Code für die statistische Auswertung der Befragungsstudie
-### Für die Berechnung und Visualisierung der folgenden Abbildungen und Tabellen<br> wurde dieser Python Code vwerwendet: [`t-test.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/t-tests.py) 
+## 5. Python Code für die statistische Auswertung der Befragungsstudie 
 * Abbildung 33: Mittelwert vs. Zufall [`t-test.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/t-tests.py) 
 * Abbildung 34: Welch t-Test (männlich vs weiblich) [`t-test.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/t-tests.py) 
 * Abbildung 35: Welch t-Test (Alter <38 vs =>38)) [`t-test.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/t-tests.py) 
