@@ -26,6 +26,7 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
 
 
 ## 5. Python Code für die statistische Auswertung der Befragungsstudie
+### Für die Berechnung und Visualisierung der folgenden Abbildungen und Tabellen wurde der Python Code 
 * Abbildung 33: Mittelwert vs. Zufall
 * Abbildung 34: Welch t-Test (männlich vs weiblich)
 * Abbildung 35: Welch t-Test (Alter <38 vs =>38))
