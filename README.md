@@ -36,11 +36,12 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
 ### Für die Berechnung und Visualisierung der folgenden Abbildungen und Tabellen<br> wurde dieser Python Code verwendet: [`Teil2_gesamt.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil2_gesamt.py)
 * Abbildung 40: Auswertung durschnittliche Bewertung nach Alter und Geschlecht
 ### Für die Berechnung und Visualisierung der folgenden Abbildungen und Tabellen<br> wurde dieser Python Code verwendet: [`01_Karikatur_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/01_Karikatur_01.py) [`01_Karikatur_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/01_Karikatur_02.py) [`01_Karikatur_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/01_Karikatur_03.py)
-* Abbildung 41: - Auswertung Nachbefragung Teil 1 - Karikatur
+* Abbildung 41: - Auswertung Bewerten - Karikatur
 ### Für die Berechnung und Visualisierung der folgenden Abbildungen und Tabellen<br> wurde dieser Python Code verwendet: [`02_Produkt_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/02_Produkt_01.py) [`02_Produkt_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/02_Produkt_02.py) [`02_Produkt_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/02_Produkt_03.py)
-* Abbildung 42: - Auswertung Nachbefragung Teil 1 - Produktbilder
+* Abbildung 42: - Auswertung Bewerten - Produktbilder
 ### Für die Berechnung und Visualisierung der folgenden Abbildungen und Tabellen<br> wurde dieser Python Code verwendet: [`03_VorherNachher_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/03_VorherNachher_01.py) [`03_VorherNachher_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/03_VorherNachher_02.py) [`03_VorherNachher_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/03_VorherNachher_03.py)
-* Abbildung 42 - Auswertung der Nachbefragung Teil 1
+* Abbildung 43: - Auswertung Bewerten - Vorher / Nachher Bilder
+### Für die Berechnung und Visualisierung der folgenden Abbildungen und Tabellen<br> wurde dieser Python Code verwendet: [`04_Gewalt_01.py`]() [`04_Gewalt_02.py`]() [`04_Gewalt_03.py`]() 
 * Abbildung 43 - Auswertung der Nachbefragung Teil 1
 * Abbildung 44 - Auswertung der Nachbefragung Teil 1
 * Abbildung 45 - Auswertung durschnittliche Bewertung
