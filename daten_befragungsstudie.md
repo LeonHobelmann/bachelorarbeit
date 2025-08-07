@@ -56,3 +56,6 @@ Manuelle Prüfung und Korrektur:
 * Korrektur von unplausiblen Umfragezeiten z.B. Zeit pro Antowrt > 10 min. (Ersetzt durch Median der Zeiten aller Befragten bei der spezifischen Frage)
 * Löschen von unvollständigen Datensätzen.
 * Ergänzen von eigenen Datenfeauteres wie Durchschnitt und Median.
+
+## Datensicherung und Löschung
+* Der Datensatz wurde in diesem Repository auf GitHub veröffentlicht. Eine manuelle oder automatische Löschung des Datensatzes oder des GitHub Repository ist nicht vorgesehen.
