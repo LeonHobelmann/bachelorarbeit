@@ -28,7 +28,7 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
 ## 5. Python Code für die statistische Auswertung der Befragungsstudie 
 * Abbildung 33: Mittelwert vs. Zufall [`t-test.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/t-tests.py) 
 * Abbildung 34: Welch t-Test (männlich vs weiblich) [`t-test.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/t-tests.py) 
-* Abbildung 35: Welch t-Test (Alter <38 vs =>38)) [`t-test.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/t-tests.py) 
+* Abbildung 35: Welch t-Test (Alter <38 vs =>38) [`t-test.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/t-tests.py) 
 * Tabelle 9: Ergebnisse der t-Tests [`t-test.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/t-tests.py) 
 * Tabelle 10: Welch-t-Tests für die Thesen der Nachbefragung
   * A [`Teil1_Nachbefragung_Fr_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil1_Nachbefragung_Fr_01.py)
