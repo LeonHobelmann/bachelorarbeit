@@ -52,5 +52,5 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
   * A [`05_Erotik_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/05_Erotik_01.py)
   * B [`05_Erotik_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/05_Erotik_02.py)
   * C [`05_Erotik_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/05_Erotik_03.py)
-* Abbildung 45 - Auswertung durschnittliche Bewertung 
-
+* Abbildung 46: Auswertung lineare Regression mit Konfidenzintervall [`00_Gesamt_Regression.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/00_Gesamt_Regression.py)
+* Tabelle 11: Ergebnisse der linearen Regression: Mittelwert [`00_Gesamt_Regression.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/00_Gesamt_Regression.py)
