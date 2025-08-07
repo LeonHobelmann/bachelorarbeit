@@ -66,4 +66,6 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
   * 5 [`Teil2_Nachbefragung_Fr_05.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil2_Nachbefragung_Fr_05.py)
   * 6 [`Teil2_Nachbefragung_Fr_06.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil2_Nachbefragung_Fr_06.py)
   * 7 [`Teil2_Nachbefragung_Fr_07.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil2_Nachbefragung_Fr_07.py)
+## Lizenz
+
   
