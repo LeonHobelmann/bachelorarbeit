@@ -10,7 +10,7 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
 
 ## 1. Daten zur Befragungsstudie
 
-* die Daten zur Befragungsstudie werden [hier]() dokumentiert.
+* die Daten zur Befragungsstudie werden hier dokumentiert: [Daten zur Befragungsstudie](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/daten_befragungsstudie.md)
 * die Befragungsstudie wird hier bereitgestellt: [Befragungsstudie.pdf](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Druck_Umfrage-verkleinert.pdf)  
 * der Datensatz wird hier bereitgestellt: [Befragungsstudie.csv](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Befragungsstudie.csv)
 * der Datenmanagementplan wird [hier]() dokumentiert.
