@@ -59,11 +59,11 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
 * Abbildung 46: Auswertung lineare Regression mit Konfidenzintervall [`00_Gesamt_Regression.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/00_Gesamt_Regression.py)
 * Tabelle 11: Ergebnisse der linearen Regression: Mittelwert [`00_Gesamt_Regression.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/00_Gesamt_Regression.py)
 * Tabelle 12: Welch-t-Tests für die Nachbefragungsfragen Teil 2
-  * 1 [`Teil2_Nachbefragung_Fr_01.py`]()
-  * 2 [`Teil2_Nachbefragung_Fr_02.py`]()
-  * 3 [`Teil2_Nachbefragung_Fr_03.py`]()
-  * 4 [`Teil2_Nachbefragung_Fr_04.py`]()
-  * 5 [`Teil2_Nachbefragung_Fr_05.py`]()
-  * 6 [`Teil2_Nachbefragung_Fr_06.py`]()
-  * 7 [`Teil2_Nachbefragung_Fr_07.py`]()
+  * 1 [`Teil2_Nachbefragung_Fr_01.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil2_Nachbefragung_Fr_01.py)
+  * 2 [`Teil2_Nachbefragung_Fr_02.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil2_Nachbefragung_Fr_02.py)
+  * 3 [`Teil2_Nachbefragung_Fr_03.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil2_Nachbefragung_Fr_03.py)
+  * 4 [`Teil2_Nachbefragung_Fr_04.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil2_Nachbefragung_Fr_04.py)
+  * 5 [`Teil2_Nachbefragung_Fr_05.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil2_Nachbefragung_Fr_05.py)
+  * 6 [`Teil2_Nachbefragung_Fr_06.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil2_Nachbefragung_Fr_06.py)
+  * 7 [`Teil2_Nachbefragung_Fr_07.py`](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Teil2_Nachbefragung_Fr_07.py)
   
