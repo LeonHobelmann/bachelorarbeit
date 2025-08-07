@@ -16,7 +16,7 @@ Zweitprüferin: [Prof. Dr. Katharina Simbeck](https://www.htw-berlin.de/hochschu
 * der Datenmanagementplan wird [hier]() dokumentiert.
 
 ## 2. Befragungsstudie - erstellte Bilder
-* alle erstellten Bilder werden [hier](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/erstelle_bilder.md) dokumentiert.
+* alle erstellten Bilder werden hier dokumentiert: [erstellte Bilder](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/erstelle_bilder.md)
 
 ## 3. Befragungsstudie - verwendete Bilder
 * alle verwendeten Bilder werden hier dokumentiert: [verwendete Bilder](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/verwendete_bilder.md)
