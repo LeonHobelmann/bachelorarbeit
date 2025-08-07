@@ -17,9 +17,8 @@ Fachbereich 4
 ## Datensatz
 Es wurde eine empirsische Umfrage durchgeführt. 110 Personen haben an der Umfrage Teilgenommen. <br>
 
-**Sprache:** Deutsch<br>
-**Datensatz:** -> Hier<br>
-**Befragungsstudie:** -> Hier<br>
+**[Datensatz](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Befragungsstudie.csv)** 
+**[Befragungsstudie](https://github.com/LeonHobelmann/bachelorarbeit/blob/main/Druck_Umfrage-verkleinert.pdf)** 
 
 ## Datenzugriff und Datenschutz
 
